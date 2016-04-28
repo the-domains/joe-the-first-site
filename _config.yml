@@ -1,0 +1,28 @@
+name: Joe The First Site
+favicon: null
+layout_spectrum: 0.2885670713149011
+typography_spectrum: 0.8398332598153502
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1870830759871751
+  lightness: 0.1528094164095819
+  saturation: 0.0627614981494844
+  rhythmicContrast: 0.5940110648516566
+purpose: []
